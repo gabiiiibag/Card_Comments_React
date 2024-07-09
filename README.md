@@ -1,2 +1,1 @@
-##:)
-###Projetinho bem simples para por em prática alguns conceitos de React.
+Projetinho bem simples para pôr em prática alguns conceitos de React.
